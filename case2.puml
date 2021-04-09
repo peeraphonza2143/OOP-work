@@ -1,0 +1,6 @@
+@startuml
+Me-> (walk to 7-11)
+Me--> (Select a product) 
+seller--> (Charge)
+Me--> (Go home) : Don't have money
+@enduml

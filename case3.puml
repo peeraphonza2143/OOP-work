@@ -1,0 +1,8 @@
+@startuml
+Me-> (walk to 7-11)
+Me--> (Select a product) 
+seller--> (Charge)
+Me--> (Borrow money , friend) : Don't have money
+friend -->(give money , me) : Have money
+Me-->(Pay)
+@enduml
